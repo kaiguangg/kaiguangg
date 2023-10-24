@@ -1,5 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning React + Springboot microservices full stack application
+
+<a href="https://app.daily.dev/kaiguangg"><img src="https://api.daily.dev/devcards/7716712ace7a4968a679e5e3cab6a046.png?r=ebm" width="400" alt="OH KAI GUANG's Dev Card"/></a>
+
 <!--
 **kaiguangg/kaiguangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

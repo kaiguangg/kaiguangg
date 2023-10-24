@@ -1,6 +1,15 @@
 ### Hi there 👋
-🌱 I’m currently learning React + Springboot microservices full stack application
+🔭 I’m currently a full-time working adult 
 
+🌱 I’m currently learning React + Springboot + Docker microservices full stack application
+
+### Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,nodejs,angular,ts,java,maven,react,gitlab,postman,mysql,docker" />
+  </a>
+</p>
 <a href="https://app.daily.dev/kaiguangg"><img src="https://api.daily.dev/devcards/7716712ace7a4968a679e5e3cab6a046.png?r=ebm" width="400" alt="OH KAI GUANG's Dev Card"/></a>
 
 <!--

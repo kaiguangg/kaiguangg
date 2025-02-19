@@ -5,11 +5,11 @@
 
 🌱 Exploring and learning ReactJS and NextJS. 
 
-### Skills
+### Skills/Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,nodejs,angular,ts,spring,java,maven,react,gitlab,postman,mysql,docker,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=spring,java,maven,gitlab,postman,mysql,docker,kubernetes,aws,linux,nginx,html,nodejs,angular,ts,react,nextjs,figma,devto,obsidian,sublime" />
   </a>
 </p>
 

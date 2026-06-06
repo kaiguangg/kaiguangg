@@ -15,8 +15,6 @@
 
 
 
-You can check out:
-My Medium: https://medium.com/@kaiiguangg
 
 😄 Staying informed on the latest techstacks by reading articles.
 
